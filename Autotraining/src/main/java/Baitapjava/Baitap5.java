@@ -14,6 +14,7 @@ public class Baitap5 {
 //            System.out.println("Mã sinh viên hợp lệ");
 //        else
 //            System.out.println("Mã sinh viên không hợp lệ");
+
 //
 //    }
 public static void main(String[] args) {
