@@ -2,7 +2,7 @@ package Baitapjava;
 
 import java.util.Scanner;
 
-public class Baitap1 {
+public class Javacoditionstatement {
     public static void Bai1() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhập vào số nguyên n:");
